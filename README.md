@@ -30,4 +30,5 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 - [The role of developer skills in agentic coding](articles/role-of-developer-skills-agentic-coding-20251122.md) - 25 March 2025
 - [How Claude Code is Built](articles/claude-code-article-20251122.md) - 24 September 2025
 - [Responsible AI Pattern Catalogue](articles/responsible-ai-pattern-catalogue-20251122.md) - CSIRO Research
+- [Agentic AI and Security](articles/agentic-ai-security-20251122.md) - 28 October 2025
 
