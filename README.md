@@ -27,6 +27,8 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ## Articles
 
+- [Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign](articles/disrupting-ai-espionage-20251123.md) - 14 November 2025
+- [Artificial Analysis State of AI - Q3 2025 Highlights Edition](articles/artificial-analysis-state-of-ai-q3-2025-20251123.md) - Q3 2025
 - [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics](articles/lejepa-self-supervised-learning-20251123.md) - 11 November 2025
 - [The role of developer skills in agentic coding](articles/role-of-developer-skills-agentic-coding-20251122.md) - 25 March 2025
 - [How Claude Code is Built](articles/claude-code-article-20251122.md) - 24 September 2025
