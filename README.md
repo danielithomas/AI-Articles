@@ -27,6 +27,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ## Articles
 
+- [The MIT AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence](articles/mit-ai-risk-repository-20251125.md) - 14 August 2024
 - [Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign](articles/disrupting-ai-espionage-20251123.md) - 14 November 2025
 - [Artificial Analysis State of AI - Q3 2025 Highlights Edition](articles/artificial-analysis-state-of-ai-q3-2025-20251123.md) - Q3 2025
 - [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics](articles/lejepa-self-supervised-learning-20251123.md) - 11 November 2025
