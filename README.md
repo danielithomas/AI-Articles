@@ -27,6 +27,10 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ## Articles
 
+- [ClaudeLog - Claude Code Docs, Guides, Tutorials & Best Practices](articles/claudelog-community-resource-20251125.md) - Community Resource
+- [What's Your AI Thinking? A Step by Step Introduction to Chain of Thought Monitorability](articles/cot-monitorability-20251125.md) - 4 August 2025
+- [A new Moore's Law for AI agents](articles/moores-law-ai-agents-20251125.md) - 12 August 2025
+- [Microsoft Agent 365: The Control Plane for AI Agents](articles/microsoft-agent-365-control-plane-20251125.md) - 18 November 2025
 - [The MIT AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence](articles/mit-ai-risk-repository-20251125.md) - 14 August 2024
 - [Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign](articles/disrupting-ai-espionage-20251123.md) - 14 November 2025
 - [Artificial Analysis State of AI - Q3 2025 Highlights Edition](articles/artificial-analysis-state-of-ai-q3-2025-20251123.md) - Q3 2025
@@ -36,4 +40,3 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 - [Responsible AI Pattern Catalogue](articles/responsible-ai-pattern-catalogue-20251122.md) - CSIRO Research
 - [Agentic AI and Security](articles/agentic-ai-security-20251122.md) - 28 October 2025
 - [LLM Output Drift: Cross-Provider Validation & Mitigation for Financial Workflows](articles/llm-output-drift-financial-workflows-20251122.md) - November 2025
-
