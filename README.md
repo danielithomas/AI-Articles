@@ -27,6 +27,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ## Articles
 
+- [Writing AI Agents From Scratch: Planning Is The Key](articles/ai-agents-planning-react-execute-20251126.md) - November 2024
 - [ClaudeLog - Claude Code Docs, Guides, Tutorials & Best Practices](articles/claudelog-community-resource-20251125.md) - Community Resource
 - [What's Your AI Thinking? A Step by Step Introduction to Chain of Thought Monitorability](articles/cot-monitorability-20251125.md) - 4 August 2025
 - [A new Moore's Law for AI agents](articles/moores-law-ai-agents-20251125.md) - 12 August 2025
@@ -40,3 +41,5 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 - [Responsible AI Pattern Catalogue](articles/responsible-ai-pattern-catalogue-20251122.md) - CSIRO Research
 - [Agentic AI and Security](articles/agentic-ai-security-20251122.md) - 28 October 2025
 - [LLM Output Drift: Cross-Provider Validation & Mitigation for Financial Workflows](articles/llm-output-drift-financial-workflows-20251122.md) - November 2025
+- [AI Agents Planning: ReAct and Plan-and-Execute Patterns](articles/ai-agents-planning-react-plan-execute-20251126.md) - 11 November 2025
+- [The Underrated Science of LLM Samplers](articles/llm-samplers-science-20251126.md) - 25 November 2025
