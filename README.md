@@ -22,11 +22,12 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 1. First I created a Claude AI project. 
 1. I uploaded the [Cappy Capture Prompt](prompt/cappy_capture_articles.md) into the instructions area
 1. I gave "Cappy" access to the repository on the local file system so it could navigate to the right directories, add files etc.
-1. I run the local repo on the "wip" branch, just in case things go funny in a fit of AI "artistic flair".
+1. I run the local repo on the "agent" branch, just in case things go funny in a fit of AI "artistic flair".
 1. After capturing an article, I do a run through fixing and tweaking info if I need to.
 
 ## Articles
 
+- [The GenAI Divide: State of AI in Business 2025](articles/genai-divide-state-of-ai-business-2025-20251205.md) - July 2025
 - [Writing AI Agents From Scratch: Planning Is The Key](articles/ai-agents-planning-react-execute-20251126.md) - November 2024
 - [ClaudeLog - Claude Code Docs, Guides, Tutorials & Best Practices](articles/claudelog-community-resource-20251125.md) - Community Resource
 - [What's Your AI Thinking? A Step by Step Introduction to Chain of Thought Monitorability](articles/cot-monitorability-20251125.md) - 4 August 2025
@@ -41,5 +42,5 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 - [Responsible AI Pattern Catalogue](articles/responsible-ai-pattern-catalogue-20251122.md) - CSIRO Research
 - [Agentic AI and Security](articles/agentic-ai-security-20251122.md) - 28 October 2025
 - [LLM Output Drift: Cross-Provider Validation & Mitigation for Financial Workflows](articles/llm-output-drift-financial-workflows-20251122.md) - November 2025
-- [AI Agents Planning: ReAct and Plan-and-Execute Patterns](articles/ai-agents-planning-react-plan-execute-20251126.md) - 11 November 2025
+- [AI Agents Planning: ReAct and Plan-and-Execute Patterns](articles/ai-agents-planning-react-execute-20251126.md) - 11 November 2025
 - [The Underrated Science of LLM Samplers](articles/llm-samplers-science-20251126.md) - 25 November 2025
