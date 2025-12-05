@@ -27,6 +27,8 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ## Articles
 
+- [NIST ARIA 0.1: Pilot Evaluation Report - Assessing Risks and Impacts of AI](articles/nist-aria-pilot-evaluation-report-20251205.md) - November 2025
+- [Accountable Acceleration: Gen AI Fast-Tracks Into the Enterprise](articles/wharton-gbk-gen-ai-adoption-2025-20251205.md) - October 2025
 - [The GenAI Divide: State of AI in Business 2025](articles/genai-divide-state-of-ai-business-2025-20251205.md) - July 2025
 - [Writing AI Agents From Scratch: Planning Is The Key](articles/ai-agents-planning-react-execute-20251126.md) - November 2024
 - [ClaudeLog - Claude Code Docs, Guides, Tutorials & Best Practices](articles/claudelog-community-resource-20251125.md) - Community Resource
