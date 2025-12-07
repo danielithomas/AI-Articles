@@ -1,6 +1,8 @@
 # Microsoft Agent 365: The Control Plane for AI Agents
 **Authors:** UNKNOWN
 
+**Category:** Architecture & Operations
+
 **Published:** 18 November 2025
 
 ---

@@ -1,6 +1,8 @@
 # The Underrated Science of LLM Samplers
 **Authors:** Shmulik Cohen
 
+**Category:** Technical Fundamentals
+
 **Published:** 25 November 2025
 
 ---

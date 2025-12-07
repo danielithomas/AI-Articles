@@ -1,6 +1,8 @@
 # The MIT AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence
 **Authors:** Peter Slattery, Alexander K. Saeri, Emily A. C. Grundy, Jess Graham, Michael Noetel, Risto Uuk, James Dao, Soroush Pour, Stephen Casper, Neil Thompson
 
+**Category:** Security & Risk
+
 **Published:** 14 August 2024
 
 ---

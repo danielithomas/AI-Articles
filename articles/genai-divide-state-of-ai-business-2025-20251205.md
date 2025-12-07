@@ -1,6 +1,8 @@
 # The GenAI Divide: State of AI in Business 2025
 **Authors:** Aditya Challapally, Chris Pease, Ramesh Raskar, Pradyumna Chari (MIT NANDA)
 
+**Category:** Strategy & Governance
+
 **Published:** July 2025
 
 ---

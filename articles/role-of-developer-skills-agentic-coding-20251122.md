@@ -1,6 +1,8 @@
 # The role of developer skills in agentic coding
 **Authors:** Birgitta Böckeler
 
+**Category:** Tooling & Technology
+
 **Published:** 25 March 2025
 
 ---

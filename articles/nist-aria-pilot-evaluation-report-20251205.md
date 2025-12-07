@@ -1,6 +1,8 @@
 # NIST ARIA 0.1: Pilot Evaluation Report - Assessing Risks and Impacts of AI
 **Authors:** Razvan Amironesei, Afzal Godil, Craig Greenberg, Kristen Greene, Patrick Hall, Theodore Jensen, Jonathan Fiscus, Noah Schulman
 
+**Category:** Strategy & Governance
+
 **Published:** November 2025
 
 ---
