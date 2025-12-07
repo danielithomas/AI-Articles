@@ -2,6 +2,8 @@
 
 **Authors:** AI Digest (Zak Miller, Shoshannah Tekofsky, Adam Binksmith)
 
+**Category:** Security & Risk
+
 **Published:** 4 August 2025
 
 ---

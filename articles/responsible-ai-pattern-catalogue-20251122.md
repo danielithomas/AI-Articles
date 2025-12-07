@@ -1,6 +1,8 @@
 # Responsible AI Pattern Catalogue
 **Authors:** Qinghua Lu, Liming Zhu, Xiwei Xu, Jon Whittle, and team
 
+**Category:** Strategy & Governance
+
 **Published:** 2024
 
 ---

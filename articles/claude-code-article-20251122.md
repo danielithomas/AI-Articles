@@ -1,6 +1,8 @@
 # How Claude Code is Built
 **Authors:** Gergely Orosz (The Pragmatic Engineer)
 
+**Category:** Tooling & Technology
+
 **Published:** 24 September 2025
 
 ---

@@ -1,6 +1,8 @@
 # Writing AI Agents From Scratch: Planning Is The Key
 **Authors:** Paul Iusztin
 
+**Category:** Architecture & Operations
+
 **Published:** 11 November 2025
 
 ---

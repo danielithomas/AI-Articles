@@ -1,6 +1,8 @@
 # Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign
 **Authors:** Anthropic Threat Intelligence Team
 
+**Category:** Security & Risk
+
 **Published:** 14 November 2025
 
 ---

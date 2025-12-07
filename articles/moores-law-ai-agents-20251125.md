@@ -1,6 +1,8 @@
 # A new Moore's Law for AI agents
 **Authors:** UNKNOWN
 
+**Category:** Architecture & Operations
+
 **Published:** 12 August 2025
 
 ---

@@ -1,6 +1,8 @@
 # Artificial Analysis State of AI - Q3 2025 Highlights Edition
 **Authors:** Micah Hill-Smith and George Cameron (Founders, Artificial Analysis)
 
+**Category:** Strategy & Governance
+
 **Published:** Q3 2025
 
 ---

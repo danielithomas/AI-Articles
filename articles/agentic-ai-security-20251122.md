@@ -1,6 +1,8 @@
 # Agentic AI and Security
 **Authors:** Korny Sietsma
 
+**Category:** Security & Risk
+
 **Published:** 28 October 2025
 
 ---

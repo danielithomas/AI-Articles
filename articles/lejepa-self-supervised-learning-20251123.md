@@ -1,6 +1,8 @@
 # LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics
 **Authors:** Randall Balestriero, Yann LeCun
 
+**Category:** Technical Fundamentals
+
 **Published:** 11 November 2025
 
 ---

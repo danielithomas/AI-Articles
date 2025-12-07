@@ -1,6 +1,8 @@
 # Accountable Acceleration: Gen AI Fast-Tracks Into the Enterprise
 **Authors:** Jeremy Korst (GBK Collective), Stefano Puntoni PhD (Wharton), Prasanna Tambe PhD (Wharton), Brian Smith, Christine Odishoo, Danny Urbina-McCarthy (GBK Collective)
 
+**Category:** Strategy & Governance
+
 **Published:** October 2025
 
 ---

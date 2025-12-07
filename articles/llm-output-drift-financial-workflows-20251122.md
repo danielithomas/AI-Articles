@@ -1,6 +1,8 @@
 # LLM Output Drift: Cross-Provider Validation & Mitigation for Financial Workflows
 **Authors:** Raffi Khatchadourian, Rolando Franco
 
+**Category:** Technical Fundamentals
+
 **Published:** November 2025
 
 ---

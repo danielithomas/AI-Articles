@@ -1,6 +1,8 @@
 # ClaudeLog - Claude Code Docs, Guides, Tutorials & Best Practices
 **Authors:** InventorBlack (CTO at Command Stick™, Author at WearOS Central, Mod at r/ClaudeAI)
 
+**Category:** Tooling & Technology
+
 **Published:** UNKNOWN
 
 ---
