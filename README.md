@@ -2,6 +2,15 @@
 
 A collection of AI Articles from across the web.
 
+1. [Why?](#why)
+1. [Setting Up](#setting-up)
+1. [Articles](#articles)
+    * [Strategy & Governance](#strategy--governance)
+    * [Security & Risk](#security--risk)
+    * [Architecture & Operations](#architecture--operations)
+    * [Tooling & Technology](#tooling--technology)
+    * [Technical Fundamentals](#technical-fundamentals)
+
 ---
 
 ## Why?
