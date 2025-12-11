@@ -38,6 +38,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ### Strategy & Governance
 
+- [Key Findings from the 2025 Enterprise AI Adoption Report](articles/enterprise-ai-adoption-survey-2025-20251211.md) - March 2025
 - [The State of Enterprise AI](articles/state-of-enterprise-ai-2025-20251210.md) - 2025 Report
 - [NIST ARIA 0.1: Pilot Evaluation Report - Assessing Risks and Impacts of AI](articles/nist-aria-pilot-evaluation-report-20251205.md) - November 2025
 - [Accountable Acceleration: Gen AI Fast-Tracks Into the Enterprise](articles/wharton-gbk-gen-ai-adoption-2025-20251205.md) - October 2025
