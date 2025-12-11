@@ -2,6 +2,15 @@
 
 A collection of AI Articles from across the web.
 
+1. [Why?](#why)
+1. [Setting Up](#setting-up)
+1. [Articles](#articles)
+    * [Strategy & Governance](#strategy--governance)
+    * [Security & Risk](#security--risk)
+    * [Architecture & Operations](#architecture--operations)
+    * [Tooling & Technology](#tooling--technology)
+    * [Technical Fundamentals](#technical-fundamentals)
+
 ---
 
 ## Why?
@@ -30,14 +39,17 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 ### Strategy & Governance
 
 - [Key Findings from the 2025 Enterprise AI Adoption Report](articles/enterprise-ai-adoption-survey-2025-20251211.md) - March 2025
+- [The State of Enterprise AI](articles/state-of-enterprise-ai-2025-20251210.md) - 2025 Report
 - [NIST ARIA 0.1: Pilot Evaluation Report - Assessing Risks and Impacts of AI](articles/nist-aria-pilot-evaluation-report-20251205.md) - November 2025
 - [Accountable Acceleration: Gen AI Fast-Tracks Into the Enterprise](articles/wharton-gbk-gen-ai-adoption-2025-20251205.md) - October 2025
+- [Approaches to Responsible Governance of GenAI in Organizations](articles/approaches-responsible-governance-genai-organisations-20251210.md) - September 2025
 - [The GenAI Divide: State of AI in Business 2025](articles/genai-divide-state-of-ai-business-2025-20251205.md) - July 2025
 - [Artificial Analysis State of AI - Q3 2025 Highlights Edition](articles/artificial-analysis-state-of-ai-q3-2025-20251123.md) - Q3 2025
 - [Responsible AI Pattern Catalogue](articles/responsible-ai-pattern-catalogue-20251122.md) - CSIRO Research
 
 ### Security & Risk
 
+- [Security Knowledge Dilution in Large Language Models: How Irrelevant Context Degrades Critical Domain Expertise](articles/security-knowledge-dilution-llms-20251210.md) - December 2025
 - [Agentic AI and Security](articles/agentic-ai-security-20251122.md) - 28 October 2025
 - [Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign](articles/disrupting-ai-espionage-20251123.md) - 14 November 2025
 - [What's Your AI Thinking? A Step by Step Introduction to Chain of Thought Monitorability](articles/cot-monitorability-20251125.md) - 4 August 2025
@@ -58,6 +70,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ### Technical Fundamentals
 
+- [A Stochastic Differential Equation Framework for Multi-Objective LLM Interactions: Dynamical Systems Analysis with Code Generation Applications](articles/sde-multi-objective-llm-dynamics-20251210.md) - 12 October 2025
 - [The Underrated Science of LLM Samplers](articles/llm-samplers-science-20251126.md) - 25 November 2025
 - [LLM Output Drift: Cross-Provider Validation & Mitigation for Financial Workflows](articles/llm-output-drift-financial-workflows-20251122.md) - November 2025
 - [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics](articles/lejepa-self-supervised-learning-20251123.md) - 11 November 2025
