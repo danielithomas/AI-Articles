@@ -38,6 +38,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ### Strategy & Governance
 
+- [Responsible Use of Generative AI: A Playbook for Product Managers & Business Leaders](articles/responsible-genai-playbook-20251212.md) - UC Berkeley 2025
 - [Key Findings from the 2025 Enterprise AI Adoption Report](articles/enterprise-ai-adoption-survey-2025-20251211.md) - March 2025
 - [The State of Enterprise AI](articles/state-of-enterprise-ai-2025-20251210.md) - 2025 Report
 - [NIST ARIA 0.1: Pilot Evaluation Report - Assessing Risks and Impacts of AI](articles/nist-aria-pilot-evaluation-report-20251205.md) - November 2025
@@ -57,6 +58,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ### Architecture & Operations
 
+- [The AI Tech Stack: A Primer for Tech and Cyber Policy](articles/ai-tech-stack-primer-20251212.md) - Paladin Global Institute, June 2025
 - [Writing AI Agents From Scratch: Planning Is The Key](articles/ai-agents-planning-react-execute-20251126.md) - 11 November 2025
 - [A new Moore's Law for AI agents](articles/moores-law-ai-agents-20251125.md) - 12 August 2025
 - [Microsoft Agent 365: The Control Plane for AI Agents](articles/microsoft-agent-365-control-plane-20251125.md) - 18 November 2025
