@@ -38,6 +38,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ### Strategy & Governance
 
+- [2025: The State of Generative AI in the Enterprise](articles/menlo-state-of-genai-enterprise-2025-20251215.md) - Menlo Ventures, December 2025
 - [Responsible Use of Generative AI: A Playbook for Product Managers & Business Leaders](articles/responsible-genai-playbook-20251212.md) - UC Berkeley 2025
 - [Key Findings from the 2025 Enterprise AI Adoption Report](articles/enterprise-ai-adoption-survey-2025-20251211.md) - March 2025
 - [The State of Enterprise AI](articles/state-of-enterprise-ai-2025-20251210.md) - 2025 Report
