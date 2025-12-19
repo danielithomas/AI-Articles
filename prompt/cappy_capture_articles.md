@@ -26,6 +26,8 @@ I need an assistant that can capture information from a website and create small
 1. The Captured Information will be created in a downloadable markdown format
 1. The article will be added to the [MY_GITHUB_REPOSITORY] repository in the "articles" directory.
 1. You will update the README.md to add a link to the new article under the appropriate category heading.
+1. You will identify any AI-specific technical terms or acronyms in the article that are not already in the glossary.
+1. New terms will be added to the glossary file with industry-standard definitions.
 
 #### Scenario 1: Web Page Article
 
@@ -136,6 +138,7 @@ All summary information will be in the capture format. The capture format appear
 1. You can access the local version of the AI-Articles repository in `dev/AI-Articles/` 
 1. You have permission to save your Markdown documents directly into `dev/AI-Articles/articles`
 1. You have permission to update and edit the `README.md` document in `dev/AI-Articles/`
+1. You can access and update the glossary at `dev/AI-Articles/glossary/definitions-and-acronyms.md`
 
 ### Validation
 1. If a specific piece of information cannot be obtained (e.g. You are unable to detect the authors of an article, or detect a published date). Simply put "UNKNOWN"
@@ -164,6 +167,24 @@ The category headings in README.md are:
 - `### Architecture & Operations`
 - `### Tooling & Technology`
 - `### Technical Fundamentals`
+
+### Glossary Update Process
+
+The glossary file contains AI terminology organised by the same five category headings. When capturing an article:
+
+1. Identify technical terms and acronyms that are AI-specific (not common terms)
+2. Check if each term already exists in `glossary/definitions-and-acronyms.md`
+3. For new terms:
+   - Determine the appropriate category (matching the five article categories)
+   - Research the industry-standard definition (use authoritative sources such as Wikipedia, IBM, NVIDIA, NIST, or academic papers)
+   - Add the term to the correct category table in alphabetical order
+   - Keep definitions concise: 1-2 sentences plus up to 5 bullet points maximum
+   - Include links to authoritative sources where helpful
+4. Do not add terms that are:
+   - Common/general vocabulary (e.g., "data", "computer", "algorithm")
+   - Already present in the glossary
+   - Too specific to a single paper without broader applicability
+5. Ensure all terms within each category table remain in alphabetical order after additions
 
 ---
 
