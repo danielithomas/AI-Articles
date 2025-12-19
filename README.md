@@ -4,6 +4,7 @@ A collection of AI Articles from across the web.
 
 1. [Why?](#why)
 1. [Setting Up](#setting-up)
+1. [Glossary](#glossary)
 1. [Articles](#articles)
     * [Strategy & Governance](#strategy--governance)
     * [Security & Risk](#security--risk)
@@ -34,10 +35,17 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 1. I run the local repo on the "agent" branch, just in case things go funny in a fit of AI "artistic flair".
 1. After capturing an article, I do a run through fixing and tweaking info if I need to.
 
+## Glossary
+
+A comprehensive reference of AI terminology, acronyms, and technical concepts used throughout these articles.
+
+- [Definitions and Acronyms](glossary/definitions-and-acronyms.md) - Alphabetically organised terms across all thematic categories
+
 ## Articles
 
 ### Strategy & Governance
 
+- [Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile)](articles/nist-cyber-ai-profile-20251219.md) - NIST IR 8596, December 2025
 - [2025: The State of Generative AI in the Enterprise](articles/menlo-state-of-genai-enterprise-2025-20251215.md) - Menlo Ventures, December 2025
 - [Responsible Use of Generative AI: A Playbook for Product Managers & Business Leaders](articles/responsible-genai-playbook-20251212.md) - UC Berkeley 2025
 - [Key Findings from the 2025 Enterprise AI Adoption Report](articles/enterprise-ai-adoption-survey-2025-20251211.md) - March 2025
@@ -51,6 +59,7 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ### Security & Risk
 
+- [Artificial Intelligence Is a Powerful Tool – But It Can Also Be a Powerful Threat](articles/ai-powerful-tool-powerful-threat-20251219.md) - November 2025
 - [Security Knowledge Dilution in Large Language Models: How Irrelevant Context Degrades Critical Domain Expertise](articles/security-knowledge-dilution-llms-20251210.md) - December 2025
 - [Agentic AI and Security](articles/agentic-ai-security-20251122.md) - 28 October 2025
 - [Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign](articles/disrupting-ai-espionage-20251123.md) - 14 November 2025
@@ -59,6 +68,8 @@ Good artists borrow: Great artists steal: This repo is public so have at it!
 
 ### Architecture & Operations
 
+- [Towards a Science of Scaling Agent Systems](articles/scaling-agent-systems-science-20251219.md) - Google Research & MIT, December 2025
+- [The AI Agents Roadmap Nobody Is Teaching You](articles/ai-agents-foundations-course-20251219.md) - Decoding AI Magazine, December 2025
 - [The AI Tech Stack: A Primer for Tech and Cyber Policy](articles/ai-tech-stack-primer-20251212.md) - Paladin Global Institute, June 2025
 - [Writing AI Agents From Scratch: Planning Is The Key](articles/ai-agents-planning-react-execute-20251126.md) - 11 November 2025
 - [A new Moore's Law for AI agents](articles/moores-law-ai-agents-20251125.md) - 12 August 2025
