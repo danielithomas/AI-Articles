@@ -68,6 +68,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Architecture & Operations
 
+- [Mastering Multi-Agent Systems: Real-World Strategies for Multi-Agent Development](articles/mastering-multi-agent-systems-galileo-20251222.md) - Galileo AI, 2025
 - [Towards a Science of Scaling Agent Systems](articles/scaling-agent-systems-science-20251219.md) - Google Research & MIT, December 2025
 - [The AI Agents Roadmap Nobody Is Teaching You](articles/ai-agents-foundations-course-20251219.md) - Decoding AI Magazine, December 2025
 - [The AI Tech Stack: A Primer for Tech and Cyber Policy](articles/ai-tech-stack-primer-20251212.md) - Paladin Global Institute, June 2025
@@ -77,6 +78,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Tooling & Technology
 
+- [[Revised] You Don't Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](articles/guide-to-local-coding-models-20251223.md) - December 2025
 - [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](articles/claude-md-prompt-learning-optimization-20251208.md) - November 2025
 - [How Claude Code is Built](articles/claude-code-article-20251122.md) - 24 September 2025
 - [ClaudeLog - Claude Code Docs, Guides, Tutorials & Best Practices](articles/claudelog-community-resource-20251125.md) - Community Resource
@@ -84,6 +86,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Technical Fundamentals
 
+- [2025 LLM Year in Review](articles/llm-year-in-review-2025-karpathy-20251223.md) - Andrej Karpathy, December 2025
 - [A Stochastic Differential Equation Framework for Multi-Objective LLM Interactions: Dynamical Systems Analysis with Code Generation Applications](articles/sde-multi-objective-llm-dynamics-20251210.md) - 12 October 2025
 - [The Underrated Science of LLM Samplers](articles/llm-samplers-science-20251126.md) - 25 November 2025
 - [LLM Output Drift: Cross-Provider Validation & Mitigation for Financial Workflows](articles/llm-output-drift-financial-workflows-20251122.md) - November 2025
