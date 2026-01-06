@@ -59,6 +59,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Security & Risk
 
+- [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](articles/adversarial-poetry-jailbreak-20250105.md) - 20 November 2025
 - [Artificial Intelligence Is a Powerful Tool – But It Can Also Be a Powerful Threat](articles/ai-powerful-tool-powerful-threat-20251219.md) - November 2025
 - [Security Knowledge Dilution in Large Language Models: How Irrelevant Context Degrades Critical Domain Expertise](articles/security-knowledge-dilution-llms-20251210.md) - December 2025
 - [Agentic AI and Security](articles/agentic-ai-security-20251122.md) - 28 October 2025
