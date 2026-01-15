@@ -59,6 +59,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Security & Risk
 
+- [Extracting Books from Production Language Models](articles/extracting-books-production-llms-20250115.md) - arXiv, January 2026
 - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](articles/adversarial-poetry-jailbreak-20250105.md) - 20 November 2025
 - [Lessons from Red Teaming 100 Generative AI Products](articles/lessons-red-teaming-100-genai-products-20250115.md) - Microsoft AI Red Team, 2024
 - [Artificial Intelligence Is a Powerful Tool – But It Can Also Be a Powerful Threat](articles/ai-powerful-tool-powerful-threat-20251219.md) - November 2025
@@ -70,6 +71,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Architecture & Operations
 
+- [Demystifying Evals for AI Agents](articles/demystifying-evals-ai-agents-20250115.md) - Anthropic Engineering, January 2026
 - [Mastering Multi-Agent Systems: Real-World Strategies for Multi-Agent Development](articles/mastering-multi-agent-systems-galileo-20251222.md) - Galileo AI, 2025
 - [Towards a Science of Scaling Agent Systems](articles/scaling-agent-systems-science-20251219.md) - Google Research & MIT, December 2025
 - [The AI Agents Roadmap Nobody Is Teaching You](articles/ai-agents-foundations-course-20251219.md) - Decoding AI Magazine, December 2025
