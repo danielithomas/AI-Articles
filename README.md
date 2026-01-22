@@ -83,6 +83,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Tooling & Technology
 
+- [how to build a coding agent: free workshop](articles/how-to-build-a-coding-agent-20260122.md) - 22 January 2026
 - [[Revised] You Don't Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](articles/guide-to-local-coding-models-20251223.md) - December 2025
 - [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](articles/claude-md-prompt-learning-optimization-20251208.md) - November 2025
 - [How Claude Code is Built](articles/claude-code-article-20251122.md) - 24 September 2025
