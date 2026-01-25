@@ -83,6 +83,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Tooling & Technology
 
+- [How to build a Frontend for LangChain Deep Agents with CopilotKit!](articles/langchain-deep-agents-frontend-copilotkit-20260125.md) - 20 January 2026
 - [how to build a coding agent: free workshop](articles/how-to-build-a-coding-agent-20260122.md) - 22 January 2026
 - [[Revised] You Don't Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](articles/guide-to-local-coding-models-20251223.md) - December 2025
 - [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](articles/claude-md-prompt-learning-optimization-20251208.md) - November 2025
