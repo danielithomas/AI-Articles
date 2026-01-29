@@ -8,6 +8,7 @@ This document provides definitions for core Artificial Intelligence concepts, te
 
 |Term|Definition|
 |---|---|
+|ADM|Automated Decision Making - The use of AI systems to make administrative or operational decisions with minimal or no human intervention. In government and enterprise contexts, ADM systems make determinations about services, benefits, compliance, or resource allocation based on algorithms and data inputs. Key concerns include transparency, accountability, and algorithmic bias, particularly when decisions significantly affect individuals. Regulatory frameworks like GDPR establish rights around ADM, including the right to explanation for automated decisions.|
 |AI Ethics Principles|A set of guidelines and values that govern the responsible development and deployment of AI systems. Common principles include fairness, transparency, accountability, privacy, safety, and human oversight. Various organisations and governments have published their own frameworks.|
 |AI Governance|The framework of policies, processes, and organisational structures that ensure AI systems are developed, deployed, and managed responsibly. Encompasses risk management, compliance, accountability mechanisms, and stakeholder oversight throughout the AI lifecycle.|
 |Data Provenance|The documented history and lineage of data, including its origin, transformations, and processing steps. In AI contexts, provenance tracking ensures transparency about training data sources and helps identify potential biases or quality issues.|
