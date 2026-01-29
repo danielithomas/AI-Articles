@@ -45,6 +45,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Strategy & Governance
 
+- [Australian CEOs say AI isn't creating revenue gains](articles/australian-ceos-say-ai-isnt-creating-revenue-gains-20260128.md) - Information Age, 23 January 2026
 - [Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile)](articles/nist-cyber-ai-profile-20251219.md) - NIST IR 8596, December 2025
 - [2025: The State of Generative AI in the Enterprise](articles/menlo-state-of-genai-enterprise-2025-20251215.md) - Menlo Ventures, December 2025
 - [Responsible Use of Generative AI: A Playbook for Product Managers & Business Leaders](articles/responsible-genai-playbook-20251212.md) - UC Berkeley 2025
