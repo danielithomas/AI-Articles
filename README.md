@@ -45,6 +45,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Strategy & Governance
 
+- [Leaders, Gainers and Unexpected Winners in the Enterprise AI Arms Race](articles/enterprise-ai-arms-race-cio-survey-a16z-20260203.md) - a16z CIO Survey, 30 January 2026
 - [Australian CEOs say AI isn't creating revenue gains](articles/australian-ceos-say-ai-isnt-creating-revenue-gains-20260128.md) - Information Age, 23 January 2026
 - [Cybersecurity Framework Profile for Artificial Intelligence (Cyber AI Profile)](articles/nist-cyber-ai-profile-20251219.md) - NIST IR 8596, December 2025
 - [2025: The State of Generative AI in the Enterprise](articles/menlo-state-of-genai-enterprise-2025-20251215.md) - Menlo Ventures, December 2025
@@ -84,6 +85,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Tooling & Technology
 
+- [How to Build an AI Agent Using LangFlow](articles/how-to-build-ai-agent-langflow-20260223.md) - The Register, 28 January 2026
 - [How to build a Frontend for LangChain Deep Agents with CopilotKit!](articles/langchain-deep-agents-frontend-copilotkit-20260125.md) - 20 January 2026
 - [how to build a coding agent: free workshop](articles/how-to-build-a-coding-agent-20260122.md) - 22 January 2026
 - [[Revised] You Don't Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](articles/guide-to-local-coding-models-20251223.md) - December 2025
