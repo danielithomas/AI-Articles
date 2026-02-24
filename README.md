@@ -73,6 +73,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Architecture & Operations
 
+- [Measuring AI Agent Autonomy in Practice](articles/measuring-ai-agent-autonomy-in-practice-20260223.md) - Anthropic Research, 18 February 2026
 - [Towards Societal Acceptance of Artificial Beings](articles/towards-societal-acceptance-of-artificial-beings-20260119.md) - Thomas & Vlacic, 2009
 - [Demystifying Evals for AI Agents](articles/demystifying-evals-ai-agents-20250115.md) - Anthropic Engineering, January 2026
 - [Mastering Multi-Agent Systems: Real-World Strategies for Multi-Agent Development](articles/mastering-multi-agent-systems-galileo-20251222.md) - Galileo AI, 2025
