@@ -45,6 +45,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Strategy & Governance
 
+- [The "Last Mile" Problem Slowing AI Transformation](articles/the-last-mile-problem-slowing-ai-transformation-20260325.md) - Harvard Business Review, 9 March 2026
 - [When Using AI Leads to "Brain Fry"](articles/when-using-ai-leads-to-brain-fry-20260311.md) - Harvard Business Review / BCG, 6 March 2026
 - [Leaders, Gainers and Unexpected Winners in the Enterprise AI Arms Race](articles/enterprise-ai-arms-race-cio-survey-a16z-20260203.md) - a16z CIO Survey, 30 January 2026
 - [Australian CEOs say AI isn't creating revenue gains](articles/australian-ceos-say-ai-isnt-creating-revenue-gains-20260128.md) - Information Age, 23 January 2026
