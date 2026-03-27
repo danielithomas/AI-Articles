@@ -63,6 +63,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Security & Risk
 
+- [How We Hacked McKinsey's AI Platform](articles/how-we-hacked-mckinseys-ai-platform-20260327.md) - CodeWall, 9 March 2026
 - [Extracting Books from Production Language Models](articles/extracting-books-production-llms-20250115.md) - arXiv, January 2026
 - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](articles/adversarial-poetry-jailbreak-20250105.md) - 20 November 2025
 - [Lessons from Red Teaming 100 Generative AI Products](articles/lessons-red-teaming-100-genai-products-20250115.md) - Microsoft AI Red Team, 2024
