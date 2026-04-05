@@ -100,6 +100,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Technical Fundamentals
 
+- [TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](articles/turboquant-online-vector-quantization-near-optimal-distortion-rate-20260405.md) - arXiv, 28 April 2025
 - [ReAct: Synergizing Reasoning and Acting in Language Models](articles/react-synergizing-reasoning-acting-20260119.md) - arXiv, October 2022 (ICLR 2023)
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](articles/tree-of-thoughts-deliberate-problem-solving-20260119.md) - arXiv, December 2023
 - [Self-Consistency Improves Chain of Thought Reasoning in Language Models](articles/self-consistency-chain-of-thought-20260119.md) - arXiv, March 2022
