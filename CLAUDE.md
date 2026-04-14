@@ -10,6 +10,7 @@ This is a curated collection of AI articles captured in a consistent markdown fo
 
 - `articles/` — Individual article summaries in markdown, named `kebab-case-title-YYYYMMDD.md` (date = capture date)
 - `glossary/definitions-and-acronyms.md` — AI terminology organised by category in table format, alphabetically ordered within each category
+- `local/` — Git-ignored directory for local working files (PDFs, downloaded articles). Used when a web source cannot be fetched directly and the user provides a local copy instead
 - `prompt/cappy_capture_articles.md` — The capture prompt/instructions used to process articles
 - `README.md` — Article index with links organised under five category headings
 

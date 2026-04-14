@@ -45,6 +45,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Strategy & Governance
 
+- [The AI Transformation Manifesto](articles/ai-transformation-manifesto-mckinsey-20260414.md) - McKinsey, April 2026
 - [The "Last Mile" Problem Slowing AI Transformation](articles/the-last-mile-problem-slowing-ai-transformation-20260325.md) - Harvard Business Review, 9 March 2026
 - [When Using AI Leads to "Brain Fry"](articles/when-using-ai-leads-to-brain-fry-20260311.md) - Harvard Business Review / BCG, 6 March 2026
 - [Leaders, Gainers and Unexpected Winners in the Enterprise AI Arms Race](articles/enterprise-ai-arms-race-cio-survey-a16z-20260203.md) - a16z CIO Survey, 30 January 2026
@@ -63,6 +64,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Security & Risk
 
+- [Sycophantic Chatbots Cause Delusional Spiraling, Even in Ideal Bayesians](articles/sycophantic-chatbots-delusional-spiraling-bayesians-20260414.md) - arXiv, 22 February 2026
 - [How We Hacked McKinsey's AI Platform](articles/how-we-hacked-mckinseys-ai-platform-20260327.md) - CodeWall, 9 March 2026
 - [Extracting Books from Production Language Models](articles/extracting-books-production-llms-20250115.md) - arXiv, January 2026
 - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](articles/adversarial-poetry-jailbreak-20250105.md) - 20 November 2025
@@ -89,6 +91,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Tooling & Technology
 
+- [Claude Code Best Practice: From Vibe Coding to Agentic Engineering](articles/claude-code-best-practice-20260414.md) - Community Resource, 2025 (actively maintained)
 - [How to Build an AI Agent Using LangFlow](articles/how-to-build-ai-agent-langflow-20260223.md) - The Register, 28 January 2026
 - [How to build a Frontend for LangChain Deep Agents with CopilotKit!](articles/langchain-deep-agents-frontend-copilotkit-20260125.md) - 20 January 2026
 - [how to build a coding agent: free workshop](articles/how-to-build-a-coding-agent-20260122.md) - 22 January 2026
@@ -100,6 +103,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Technical Fundamentals
 
+- [ASI-Evolve: AI Accelerates AI](articles/asi-evolve-ai-accelerates-ai-20260414.md) - arXiv, 31 March 2026
 - [TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](articles/turboquant-online-vector-quantization-near-optimal-distortion-rate-20260405.md) - arXiv, 28 April 2025
 - [ReAct: Synergizing Reasoning and Acting in Language Models](articles/react-synergizing-reasoning-acting-20260119.md) - arXiv, October 2022 (ICLR 2023)
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](articles/tree-of-thoughts-deliberate-problem-solving-20260119.md) - arXiv, December 2023
