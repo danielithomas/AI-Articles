@@ -90,6 +90,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Tooling & Technology
 
+- [Claude Code Best Practice: From Vibe Coding to Agentic Engineering](articles/claude-code-best-practice-20260414.md) - Community Resource, 2025 (actively maintained)
 - [How to Build an AI Agent Using LangFlow](articles/how-to-build-ai-agent-langflow-20260223.md) - The Register, 28 January 2026
 - [How to build a Frontend for LangChain Deep Agents with CopilotKit!](articles/langchain-deep-agents-frontend-copilotkit-20260125.md) - 20 January 2026
 - [how to build a coding agent: free workshop](articles/how-to-build-a-coding-agent-20260122.md) - 22 January 2026
