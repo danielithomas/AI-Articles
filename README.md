@@ -45,6 +45,9 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Strategy & Governance
 
+- [Maximising AI Investments: Beyond Individual Productivity](articles/maximising-ai-investments-beyond-individual-productivity-20260619.md) - Daniel Thomas & Duncan Unwin, 19 August 2025
+- [AI Agents Are Already Making Decisions in Your Organisation. Who Authorised Them?](articles/ai-agents-already-making-decisions-who-authorised-them-20260619.md) - Daniel Thomas, 19 May 2026
+- [Meeting the Challenge of Disruptive Change](articles/meeting-the-challenge-of-disruptive-change-20260619.md) - Christensen & Overdorf, March 2000
 - [The AI Transformation Manifesto](articles/ai-transformation-manifesto-mckinsey-20260414.md) - McKinsey, April 2026
 - [The "Last Mile" Problem Slowing AI Transformation](articles/the-last-mile-problem-slowing-ai-transformation-20260325.md) - Harvard Business Review, 9 March 2026
 - [When Using AI Leads to "Brain Fry"](articles/when-using-ai-leads-to-brain-fry-20260311.md) - Harvard Business Review / BCG, 6 March 2026
@@ -78,6 +81,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Architecture & Operations
 
+- [Claude for Financial Services](articles/claude-for-financial-services-20260619.md) - Anthropic, February 2026
 - [Measuring AI Agent Autonomy in Practice](articles/measuring-ai-agent-autonomy-in-practice-20260223.md) - Anthropic Research, 18 February 2026
 - [Towards Societal Acceptance of Artificial Beings](articles/towards-societal-acceptance-of-artificial-beings-20260119.md) - Thomas & Vlacic, 2009
 - [Demystifying Evals for AI Agents](articles/demystifying-evals-ai-agents-20250115.md) - Anthropic Engineering, January 2026
