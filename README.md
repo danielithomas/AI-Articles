@@ -45,6 +45,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Strategy & Governance
 
+- [CEOs Are Starting to See Value from AI. Now Comes Execution.](articles/ceos-see-value-from-ai-now-comes-execution-bcg-20260805.md) - BCG, 22 July 2026
 - [The AI Transformation Manifesto](articles/ai-transformation-manifesto-mckinsey-20260414.md) - McKinsey, April 2026
 - [The "Last Mile" Problem Slowing AI Transformation](articles/the-last-mile-problem-slowing-ai-transformation-20260325.md) - Harvard Business Review, 9 March 2026
 - [When Using AI Leads to "Brain Fry"](articles/when-using-ai-leads-to-brain-fry-20260311.md) - Harvard Business Review / BCG, 6 March 2026
@@ -78,6 +79,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Architecture & Operations
 
+- [Orchard: An Open Framework for Scalable Agentic AI](articles/orchard-open-framework-scalable-agentic-ai-20260805.md) - Microsoft Research, 3 August 2026
 - [Measuring AI Agent Autonomy in Practice](articles/measuring-ai-agent-autonomy-in-practice-20260223.md) - Anthropic Research, 18 February 2026
 - [Towards Societal Acceptance of Artificial Beings](articles/towards-societal-acceptance-of-artificial-beings-20260119.md) - Thomas & Vlacic, 2009
 - [Demystifying Evals for AI Agents](articles/demystifying-evals-ai-agents-20250115.md) - Anthropic Engineering, January 2026
