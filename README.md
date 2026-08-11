@@ -45,6 +45,7 @@ A comprehensive reference of AI terminology, acronyms, and technical concepts us
 
 ### Strategy & Governance
 
+- [Agentic Governance & Security Controls (AGSC)](articles/agentic-governance-and-security-controls-20260812.md) - COHUMAIN Labs & SafeAlign AI, 2026
 - [CEOs Are Starting to See Value from AI. Now Comes Execution.](articles/ceos-see-value-from-ai-now-comes-execution-bcg-20260805.md) - BCG, 22 July 2026
 - [AI Agents Are Already Making Decisions in Your Organisation. Who Authorised Them?](articles/ai-agents-already-making-decisions-who-authorised-them-20260619.md) - Daniel Thomas, 19 May 2026
 - [The AI Transformation Manifesto](articles/ai-transformation-manifesto-mckinsey-20260414.md) - McKinsey, April 2026
